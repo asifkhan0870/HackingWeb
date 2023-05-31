@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+      
+    background: url('/3Tku.gif') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.top h2{
+      
+    color: red;
+    margin-top: 50px;  
+}
+.container{
+      
+    
+    position: relative;
+    left: 683px;
+    top: 200px;
+    width: 47%;
+    /* border: 2px solid cyan; */
+    background: none;
+    
+}
+.container h2{
+       
+    text-align: center;
+    color: white;
+   margin-bottom: 22px;
+}
+
+
+
+.box input{
+      
+    font-size: 13px;
+    margin: 4px 0px;
+    padding: 8px 0px;
+    /* border: 2px solid cyan; */
+    border-radius: 9px;
+    width: 60%;
+    outline: none;
+    position: relative;
+    left: 120px;
+    background: none;
+    /* color: white; */
+    font-size: 16px;
+
+}
+
+i{
+    position: relative;
+    left: 116px;
+    color: white;
+}
+
+
+
+.btn{
+      
+    color: #d3ffff;
+    font-size: 15px;
+    margin: 8px 0px;
+    padding: 8px;
+    width: 87px;
+    border-radius: 10px;
+    position: relative;
+    left: 141px;
+    background: none;
+
+}
+
+.btn:hover{
+      background-color: black;
+      color: green;
+}
